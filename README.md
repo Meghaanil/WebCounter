@@ -3,4 +3,4 @@
 - HTML
 - CSS
 - JAVASCRIPT
-<img width="400px" src="webcounter.png"/>
+<img width="400px" src="counterimg.png"/>
